@@ -7,5 +7,6 @@ Team Memebers:
 3.Vinisha A
 4.Vaishnavi Nadanasabapathi
 5.Prajakta Khabule
+6.Dhruv Dixit
 
 Overview of the project : This project focuses on analyzing UK road accident data for identifying patterns, risk factors, and safety insights.The goal is to understand accident trends by location, time, vehicle type, weather, and road conditions.The analysis helps in proposing measures to improve road safety and reduce accident severity.
